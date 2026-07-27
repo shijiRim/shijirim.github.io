@@ -7,6 +7,8 @@ baseURL = "https://shijiRim.com"
 defaultContentLanguage = "ja"
 timeZone = "Asia/Tokyo"
 
+hasCJKLanguage = true
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
