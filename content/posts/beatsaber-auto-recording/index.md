@@ -58,6 +58,7 @@ BeatSaberが落ちていることを確認し、ディレクトリにある```Us
 ```"ServerPassword": "",``` の部分に先程設定したパスワードを入力です。
 
 また気が向けばファイルフォーマットも編集して良いでしょう。
+
 筆者は
 ```"RecordingFileFormat": "?@{yyyyMMdd_HHmmss}__id-?I__diff-?D__score-?s__acc-?%__end-?E__?N{30}<__mods-[?M]><__?F>",```
 を使っています。
